@@ -13,7 +13,7 @@ pipeline {
         NEXUS_VERSION = "nexus3"
         NEXUS_PROTOCOL = "http"
         NEXUSIP = '172.31.83.167'
-        NEXUS_PORT = "8081"
+        NEXUSPORT = "8081"
         NEXUS_REPOSITORY = "vprofile-release"
 	    NEXUS_GRP_REPO = "vpro-maven-group"
         NEXUS_CREDENTIAL_ID = "nexuslogin"
